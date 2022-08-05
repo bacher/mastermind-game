@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "mastermind/static/css/main.4129f4d3.css",
+    "main.js": "mastermind/static/js/main.7ccc8b43.js",
+    "index.html": "mastermind/index.html",
+    "main.4129f4d3.css.map": "mastermind/static/css/main.4129f4d3.css.map",
+    "main.7ccc8b43.js.map": "mastermind/static/js/main.7ccc8b43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4129f4d3.css",
+    "static/js/main.7ccc8b43.js"
+  ]
+}
