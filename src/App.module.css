@@ -1,0 +1,15 @@
+.guessVariant {
+  display: flex;
+  gap: 8px;
+}
+
+.guessIndex {
+  width: 30px;
+  text-align: end;
+}
+
+.inputBlock {
+  display: flex;
+  gap: 8px;
+  margin-top: 16px;
+}
