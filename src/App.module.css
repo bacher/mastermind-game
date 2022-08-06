@@ -1,3 +1,17 @@
+.root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.content {
+  padding: 40px;
+}
+
+.guessesBlock {
+  margin-top: 10px;
+}
+
 .guessVariant {
   display: flex;
   gap: 8px;
